@@ -98,6 +98,10 @@ docker-compose down
 # Rebuild containers
 docker-compose up --build
 
+# For running server url
+http://localhost:8000
+
+
 ### Database Commands
 
 bash
