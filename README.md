@@ -21,9 +21,7 @@ A Django-based backend system for the Shape App, featuring user management, 3D a
 ### 1. Clone the Repository
 
 bash
-git clone <>
-cd shape-app
-
+git clone <https://github.com/MishalAreekkan/Shape-App.git>
 
 ### 2. Local Development Setup
 
